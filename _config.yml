@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Goar Shaboian"
 title_separator          : "-"
 name                     : &name "Goar Shaboian"
-description              : &description "PhD Student in Statistics and Computer Science, Bocconi University"
+description              : &description #"PhD Student in Statistics and Computer Science, Bocconi University"
 url                      : https://dontkillourjoy.github.io
 baseurl                  : /goar.shbn.github.io
 repository: dontkillourjoy/goar.shbn.github.io
@@ -86,7 +86,7 @@ author:
   name             : "Goar Shaboian"
   avatar           : "foto2.jpg"
   bio              : "Phd Student in Statistics and Computer Science"
-  location         : "Bocconi University, Milan"
+  location         : "Milan, Italy"
   employer         :
   pubmed           :
   googlescholar    :
