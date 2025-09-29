@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-**phd student, bocconi — statistics & computer science**
+**PhD student in Statistics & Computer Science** at Bocconi University
 
-research: bayesian modelling; nonparametric  methods; statistical machine learning
-
-[cv]({{ site.baseurl }}/cv/)
+contact me @ goar.shaboian@phd.unibocconi.it
