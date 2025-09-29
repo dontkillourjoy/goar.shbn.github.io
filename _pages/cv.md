@@ -11,98 +11,65 @@ redirect_from:
 
 
 
-Education
-======
-* PhD in Statistics and Computer Science
+## Education
 
--University Luigi Bocconi, Milan, Italy
+* **PhD in Statistics and Computer Science**  
+  University Luigi Bocconi — Milan, Italy<br>
+  Sep 2025–present
 
--Sep 2025 – in progress
+* **MSc in Data Analytics**  
+  Università Cattolica del Sacro Cuore — Milan, Italy<br>
+  Sep 2023–Feb 2025<br>
+  Thesis: “Bayesian Hierarchical Modelling for Multisite Replications”<br>
+  Supervisor: Guido Consinni<br>
+  Grade: 110/110 cum laude
 
-* MSc in  Data Analytics
-
--Università Cattolica del Sacro Cuore, Milan, Italy
-
--Sep 2023 – Feb 2025
-
--Thesis: “Bayesian Hierarchical Modelling for Multisite Replications”
-
--Supervisor: Guido Consinni
-
--Grade: 110/110 cum laude
-
-* BSc in  Economics and Statistics 
-
--Higher School of Economics, Moscow, Russia
-
--Sep 2015 – Jun 2019
-
--Bachelor thesis: “Statistical Analysis of the Role of Political Globalization in Countries\' Socio-Economic Development”
-
--Supervisor: Elena Kopnova
+* **BSc in Economics and Statistics**  
+  Higher School of Economics — Moscow, Russia<br>
+  Sep 2015–Jun 2019<br>
+  Bachelor thesis: “Statistical Analysis of the Role of Political Globalization in Countries' Socio-Economic Development”<br>
+  Supervisor: Elena Kopnova
 
 
-Awards and Scholarships 
-======
-* PhD Scholarships
+## Scholarships
 
--University Luigi Bocconi, Milan, Italy
+* **PhD Scholarships**  
+  University Luigi Bocconi — Milan, Italy<br>
+  Sep 2025–present
 
--Sep 2025 – in progress
-
-* Full tuition waiver
-
--Higher School of Economics, Moscow, Russia
-
--Sep 2015 – Jun 2019
+* **Full Tuition Waiver**  
+  Higher School of Economics — Moscow, Russia<br>
+  Sep 2015–Jun 2019
 
 Research Interests
 ======
 * Bayesian Inference, Nonparametric Methods, Statistical Machine Learning
 
-Studies abroad
-======
-* Overseas academic mobility programme 
+## Studies Abroad
 
--Università Cattolica del Sacro Cuore, Milan, Italy
+* **Overseas Academic Mobility Programme**  
+  Università Cattolica del Sacro Cuore — Milan, Italy<br>
+  Sep 2018–Jan 2019
 
--Sep 2018 – Jan 2019
 
-Academic engagements
-======
-* SISBAYES 2025 Workshop
+## Academic Engagements
 
--University of Padova, Padua, Italy
+* **SISBAYES 2025 Workshop**  
+  University of Padova — Padua, Italy • Sep 2025<br>
+  Poster session participant
 
--Poster session participant
+* **Tutor in Statistics**  
+  Università Cattolica del Sacro Cuore — Milan, Italy • Mar 2025<br>
+  Tutorship for MSc students in Data Science for Management
 
--Sep 2025
+* **Summer School: Replicability Crisis in Science**  
+  University of Padova — Padua, Italy • Sep 2023
 
-* Tutor in Statistics
+* **Stats Under Start Hackathon**  
+  Università Politecnica Marche — Ancona, Italy • Jun 2023
 
--Università Cattolica del Sacro Cuore, Milan, Italy
-
--Tutorship for MSc students in Data Science for Management
-
-Mar 2025
-
-* Summer School: Replicability Crisis in Science
-
--University of Padova, Padua, Italy
-
--Sep 2023
-
-* Stats Under Start Hackathon
-
--Università Politecnica Marche, Ancona, Italy
-
-Jun 2023
-
-* Teaching Assistant in Linear Algebra, Discrete Mathematics
-
--Higher School of Economics, Moscow, Russia
-
--Sep 2016 - Apr 2018
+* **Teaching Assistant in Linear Algebra, Discrete Mathematics**  
+  Higher School of Economics — Moscow, Russia • Sep 2016–Apr 2018
 
 
 
