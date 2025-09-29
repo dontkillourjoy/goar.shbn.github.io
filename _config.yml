@@ -11,6 +11,9 @@ title                    : "Goar Shaboian"
 title_separator          : "-"
 name                     : &name "Goar Shaboian"
 description              : &description "PhD Student in Statistics and Computer Science, Bocconi University"
+url                      : https://dontkillourjoy.github.io
+baseurl                  : /goar.shbn.github.io
+repository: dontkillourjoy/goar.shbn.github.io
 url                      : https://dontkillourjoy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /goar.shbn.github.io
 repository               : "dontkillourjoy/goar.shbn.github.io"
